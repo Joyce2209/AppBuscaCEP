@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppBuscaCEP-API</string>
+    <resources>
+        <string-array name="spinner">
+            <item>SP</item>
+            <item>RJ</item>
+            <item>MG</item>
+            <item>BH</item>
+            <item>PE</item>
+        </string-array>
+    </resources>
+</resources>
